@@ -1,0 +1,22 @@
+.jumbotron {
+    margin-bottom: 0px;
+    margin-top: 100px;
+    opacity: 0.7;
+    color: black;
+    font-family: 'Avenir'
+}
+
+#surveybutton{
+    background-color: gray;
+    color: black;
+}
+a {
+  color: black;
+  font-family: 'Avenir'
+}
+
+body{
+    background-color:gray;
+    color: black;
+    font-family: 'Avenir'
+}
